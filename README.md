@@ -14,6 +14,17 @@ Add a paragragh tag to the program
 Execute the program
 
 # CODE
-*Paste your code here*
+~~~<DOCTYPE html>
+<html>
+
+<head><h1><b>Infomation</b></h1>
+</head>
+
+<body>
+<h2>Name               :     Venkatesh E</h2>
+<h2>Reference Number   :     21003352</h2>
+<h2>Department         :     AI-DS </h2>
+</body>
+~~~
 # OUPUT
 *OUTPUT*
