@@ -17,6 +17,9 @@ Execute the program
 ~~~<DOCTYPE html>
 <html>
 
+<head><h1><b>Information</b></h1>
+</head>
+
 <body>
 <h2>Name               :     Venkatesh E</h2>
 <h2>Reference Number   :     21003352</h2>
@@ -26,9 +29,18 @@ Execute the program
 </html>
 ~~~
 # OUPUT
-~~~
-Name : Venkatesh E
-Reference Number : 21003352
-Department : AI-DS
-~~~
+
+<html>
+
+<head><h1><b>Information</b></h1>
+</head>
+
+<body>
+<h2>Name               :     Venkatesh E</h2>
+<h2>Reference Number   :     21003352</h2>
+<h2>Department         :     AI-DS </h2>
+</body>
+
+</html>
+
 
